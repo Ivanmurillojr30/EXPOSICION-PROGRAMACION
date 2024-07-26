@@ -1,5 +1,13 @@
 # EXPOSICION-PROGRAMACION
 
+#MENU DE LOS RESULTADOS 
+![Captura de pantalla 2024-07-25 215235](https://github.com/user-attachments/assets/bef1cf73-1088-4354-9e48-4e3bf10fb47b)
+
+![Captura de pantalla 2024-07-25 215245](https://github.com/user-attachments/assets/c973ae08-d611-4d78-9295-1b38b0246c7d)
+
+![Captura de pantalla 2024-07-25 215257](https://github.com/user-attachments/assets/6c46bc1a-6ac2-4cf4-ba9c-b989e6e4f2ce)
+
+
 # Visor de Resultados de Constructores
 
 #EJECUCION 
